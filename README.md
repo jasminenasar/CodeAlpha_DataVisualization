@@ -1,4 +1,4 @@
-### Superstore Data Visualization Dashboard
+# Superstore Data Visualization Dashboard
 
  ## Project Overview
 
@@ -6,7 +6,7 @@ This project is an interactive data visualization dashboard created using the Su
 
 The dashboard helps analyze sales, profit, quantity, monthly sales trends, product categories, and regional performance in a simple visual format.
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -14,7 +14,7 @@ The dashboard helps analyze sales, profit, quantity, monthly sales trends, produ
 - Matplotlib
 - Jupyter Notebook
 
-# Dashboard Features
+## Dashboard Features
 
 - Total Sales
 - Total Profit
@@ -31,7 +31,7 @@ The project uses the Superstore dataset, which contains information about orders
 
 ## Project Structure
 
-# Data Visualization Project/
+### Data Visualization Project/
 │
 ├── Dashboard.py
 ├── superstore.csv
